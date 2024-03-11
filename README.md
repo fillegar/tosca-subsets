@@ -1,4 +1,4 @@
-# tosca-subsets
+# tosca subsets and modules
 Repo contains Tricentis Tosca Modules and custom modules used to create automated test cases for salesforce, sap, oracle, workday, apis, web, databases, mobile, mainframe, and everything in between
 
 Tosca Modules to consume fake test data API: 
