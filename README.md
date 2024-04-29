@@ -4,6 +4,9 @@ Repo contains Tricentis Tosca Modules and custom modules used to create automate
 Blog post with Youtube video showcasing how to create automated test cases using Tosca:
 https://www.fillegar.com/blog/tosca-nocode-visual-test-design-solution
 
+How to Import Tosca Subsets:
+https://www.fillegar.com/blog/how-to-import-tosca-subsets
+
 Tosca Modules to consume fake test data API: 
 
 FakeTestData:
