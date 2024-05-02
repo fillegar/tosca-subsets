@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/tosca-subsets/FileContentIndex
+/.vs/tosca-subsets/v17
+/.vs
