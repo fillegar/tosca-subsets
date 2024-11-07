@@ -1,5 +1,6 @@
-If you do not have SQLite installed, download it. 
-Download SQLite DB: https://www.sqlite.org/download.html
+If you do not have SQLite installed, download it. Links here:
+
+Download SQLite DB: https://www.sqlite.org/download.html 
 Download SQLite Browser: https://sqlitebrowser.org/dl/
 
 Link to Tosca Standard Modules for Databases:
