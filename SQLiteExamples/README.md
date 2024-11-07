@@ -3,3 +3,5 @@ https://documentation.tricentis.com/tosca/2410/en/content/standard_subset/engine
 Download SQLite DB: https://www.sqlite.org/download.html
 
 Download SQLite Browser: https://sqlitebrowser.org/dl/
+
+![Tosca-Verify-Data-In-SQLite-Database](https://github.com/user-attachments/assets/da04e5ac-f070-43dc-b6a3-b01bae4d9ddf)
