@@ -1,0 +1,25 @@
+{
+"Customer": "1",
+   "Supplier": "",
+   "AcademicTitle": "",
+   "AuthorizationGroup": "",
+   "BusinessPartnerCategory": "1",
+   "BusinessPartnerName": "TriServe Inc",
+   "FirstName": "Paul",   
+   "LastName": "Marino",   
+   "BusinessPartnerIDByExtSystem": "SFDC5091",
+  "to_BusinessPartnerAddress": [
+    {
+       "HouseNumber": "15687",
+	"StreetName": "Main Street",
+	"PostalCode": "32174",	
+	"CityName": "Ormond Beach",
+	"Country": "US",
+"to_AddressUsage": [
+            {
+              "AddressUsage": "XXDEFAULT"
+            }
+           ]          
+    } 
+  ]        
+}
